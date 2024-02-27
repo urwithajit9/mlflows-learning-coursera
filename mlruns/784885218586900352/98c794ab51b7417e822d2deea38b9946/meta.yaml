@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflows-learning-coursera/mlruns/784885218586900352/98c794ab51b7417e822d2deea38b9946/artifacts
+end_time: 1709024076275
+entry_point_name: ''
+experiment_id: '784885218586900352'
+lifecycle_stage: active
+run_id: 98c794ab51b7417e822d2deea38b9946
+run_name: overjoyed-ox-493
+run_uuid: 98c794ab51b7417e822d2deea38b9946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709024072841
+status: 3
+tags: []
+user_id: codespace

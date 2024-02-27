@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlflows-learning-coursera/mlruns/784885218586900352
+creation_time: 1709023616583
+experiment_id: '784885218586900352'
+last_update_time: 1709023616583
+lifecycle_stage: active
+name: produce-metrics

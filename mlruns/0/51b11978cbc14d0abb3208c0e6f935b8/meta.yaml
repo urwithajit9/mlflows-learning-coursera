@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/51b11978cbc14d0abb3208c0e6f935b8/artifacts
+end_time: 1709026221836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51b11978cbc14d0abb3208c0e6f935b8
+run_name: wise-sponge-350
+run_uuid: 51b11978cbc14d0abb3208c0e6f935b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709026221793
+status: 4
+tags: []
+user_id: codespace

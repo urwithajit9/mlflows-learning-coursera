@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3af4f4c1f973415d94aa98a1db4b480e/artifacts
+end_time: 1709026178485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3af4f4c1f973415d94aa98a1db4b480e
+run_name: spiffy-snipe-807
+run_uuid: 3af4f4c1f973415d94aa98a1db4b480e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709026178414
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0a5a1a8734f84d13b2f3bbe6a903e422/artifacts
+end_time: 1709026252183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a5a1a8734f84d13b2f3bbe6a903e422
+run_name: fortunate-boar-644
+run_uuid: 0a5a1a8734f84d13b2f3bbe6a903e422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709026252145
+status: 3
+tags: []
+user_id: codespace

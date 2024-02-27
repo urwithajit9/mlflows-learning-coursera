@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflows-learning-coursera/mlruns/784885218586900352/e4a05a25db454e83a360a5c8e6e47c6d/artifacts
+end_time: 1709023857763
+entry_point_name: ''
+experiment_id: '784885218586900352'
+lifecycle_stage: active
+run_id: e4a05a25db454e83a360a5c8e6e47c6d
+run_name: nimble-wolf-199
+run_uuid: e4a05a25db454e83a360a5c8e6e47c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709023857720
+status: 3
+tags: []
+user_id: codespace
